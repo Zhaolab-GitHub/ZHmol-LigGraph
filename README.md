@@ -1,7 +1,7 @@
 # [ZHmol-LigGraph](http://zhaoserver.com.cn/ZHmol-LigGraph/ZHmol-LigGraph.html)
 
 ## Overview of ZHmol-LigGraph: 
-ZHmol-LigGraph is xxx
+ZHmol-LigGraph is a graph-based deep learning method for nucleic acid-ligand complex prediction, featuring a two-step architecture that jointly models ligand flexibility and nucleic acid surface interactions at atomic resolution.
 
 **We also provide an online calculation server for convenient use:** 
 [Click to access the online server](http://zhaoserver.com.cn/ZHmol-LigGraph/ZHmol-LigGraph.html)
