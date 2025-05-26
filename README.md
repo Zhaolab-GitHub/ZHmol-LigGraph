@@ -15,7 +15,7 @@ ZHmol-LigGraph is xxx
 * CUDA 10.2
 
 ### Installation Steps:
-Follow these steps to set up your environment. We have successfully tested this in a clean environment:
+Follow these steps to set up your environment. We have successfully tested this in a clean environment:  
 (1) Create a new conda environment:
 ```
 conda create -n ZHmol-LigGraph python=3.8.18
