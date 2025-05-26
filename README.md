@@ -1,4 +1,4 @@
-# [ZHmol-LigGraph] (http://zhaoserver.com.cn/ZHmol-LigGraph/ZHmol-LigGraph.html)
+# [ZHmol-LigGraph](http://zhaoserver.com.cn/ZHmol-LigGraph/ZHmol-LigGraph.html)
 
 ## Overview of ZHmol-LigGraph: 
 ZHmol-LigGraph is xxx
@@ -69,6 +69,6 @@ Results are saved in data/after_dock/ as:
 * .txt file (scores of each predicted pose)
 
 ## Contact
-If you have any comments, questions or suggestions about the ZHmol-LigGraph, please contact:
-Yunjie Zhao; E-mail: yjzhaowh@ccnu.edu.cn
+If you have any comments, questions or suggestions about the ZHmol-LigGraph, please contact:  
+Yunjie Zhao; E-mail: yjzhaowh@ccnu.edu.cn  
 Chengwei Zeng; E-mail: cwzengwuhan@mails.ccnu.edu.cn
