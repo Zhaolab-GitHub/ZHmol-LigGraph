@@ -57,7 +57,7 @@ bash run_ZHmol-LigGraph.sh # Single or multiple inputs
 
 ### Case 2: Without Initial Conformation
 #### If you do not have the initial conformation, we recommend generating it using XDock:
-(1) Download and install [XDock](http://huanglab.phys.hust.edu.cn/XDock/).
+(1) Download and install [XDock](http://huanglab.phys.hust.edu.cn/XDock/).  
 (2) Then run the bash script:
 ```
 bash run_ZHmol-LigGraph.sh # Single or multiple inputs
