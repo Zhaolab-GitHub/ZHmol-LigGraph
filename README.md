@@ -43,8 +43,8 @@ pip install torchvision==0.8.2
 ### A full list of dependencies can be found in: requirements.txt
 
 ## Data & Pretrained Models
-* Data Files​​: Available at at XX
-* Pretrained Models​​: Download prediction_model.pt and selection_model.pt from [LINK] and place them in models/ directory.
+* Data Files​​: Available at at [Zenodo](https://zenodo.org/records/15519001)
+* Pretrained Models​​: Download prediction_model.pt and selection_model.pt from [Zenodo](https://zenodo.org/records/15519001) and place them in models/ directory.
 
 ## Usage
 
